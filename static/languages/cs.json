@@ -1,12 +1,12 @@
 {
   "heading": "Jak rozšířená je dětská chudoba ve všech zemích EU?",
   "subheading": "V roce 2024 bylo v EU 24,2 % dětí mladších 18 let ohroženo chudobou nebo sociálním vyloučením, oproti 24,9 % hlášeným v roce 2023.",
-  "legend1": "Žádné údaje k dispozici",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "populace mladší 18 let",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat (2024)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Tato mapa představuje statistické údaje o situaci dětí (mladších 18 let) v Evropské unii (EU), které byly v roce 2022 ohroženy chudobou nebo sociálním vyloučením (AROPE).",
+  "textNote": "Tato mapa představuje statistické údaje o situaci dětí (mladších 18 let) v Evropské unii (EU), které byly v roce 2024 ohroženy chudobou nebo sociálním vyloučením (AROPE).",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
