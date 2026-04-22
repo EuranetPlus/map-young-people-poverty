@@ -1,13 +1,13 @@
 {
   "heading": "Kiek paplitęs vaikų skurdas visose ES šalyse?",
-  "subheading": "2024 m. 24,2 % jaunesnių nei 18 metų vaikų ES grėsė skurdas arba socialinė atskirtis, palyginti su 24,9 %, apie kuriuos pranešta 2023 m.",
+  "subheading": "2025 m. 21,4 % jaunesnių nei 18 metų vaikų ES grėsė skurdas arba socialinė atskirtis, palyginti su 24,2 %, apie kuriuos pranešta 2024 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "jaunesnių nei 18 metų gyventojų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas (2024 m.)",
+  "textSource": "Eurostatas (2025 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "Šiame žemėlapyje pateikiami statistiniai duomenys apie vaikų (iki 18 metų), kuriems grėsė skurdas ar socialinė atskirtis (AROPE), padėtį Europos Sąjungoje (ES) 2024 m.",
+  "textNote": "Šiame žemėlapyje pateikiami statistiniai duomenys apie vaikų (iki 18 metų), kuriems grėsė skurdas ar socialinė atskirtis (AROPE), padėtį Europos Sąjungoje (ES) 2025 m. Trūksta Lietuvos, Slovakijos, Austrijos, Maltos ir Liuksemburgo duomenų.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

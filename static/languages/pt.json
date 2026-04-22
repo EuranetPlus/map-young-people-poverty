@@ -1,13 +1,13 @@
 {
-  "heading": "Quão disseminada é a pobreza infantil em todos os países da UE?",
-  "subheading": "Em 2024, 24,2% das crianças com menos de 18 anos na UE estavam em risco de pobreza ou exclusão social, em comparação com 24,9% relatados em 2023.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "Qual a extensão da pobreza infantil em todos os países da UE?",
+  "subheading": "Em 2025, 21,4% das crianças com menos de 18 anos na UE estavam em risco de pobreza ou exclusão social, em comparação com os 24,2% registados em 2024.",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "da população com menos de 18 anos",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Observação",
-  "textNote": "Este mapa apresenta dados estatísticos sobre a situação das crianças (com menos de 18 anos) na União Europeia (UE) que estavam em risco de pobreza ou exclusão social (AROPE) em 2024",
+  "textNote": "Este mapa apresenta dados estatísticos sobre a situação das crianças (com menos de 18 anos) na União Europeia (UE) que se encontravam em risco de pobreza ou exclusão social (AROPE) em 2025. Faltam dados para a Lituânia, Eslováquia, Áustria, Malta e Luxemburgo.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Clique para mais informações"
 }

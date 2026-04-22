@@ -1,13 +1,13 @@
 {
   "heading": "Hvor udbredt er børnefattigdom i alle EU-lande.",
-  "subheading": "I 2024 var 24,2 % af børn under 18 år i EU i risiko for fattigdom eller social udstødelse sammenlignet med 24,9 % rapporteret i 2023.",
+  "subheading": "I 2025 var 21,4 % af børn under 18 år i EU i risiko for fattigdom eller social udstødelse sammenlignet med 24,2 % rapporteret i 2024.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "af befolkningen under 18 år",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Note",
-  "textNote": "Dette kort præsenterer statistiske data om situationen for børn (under 18 år) i Den Europæiske Union (EU), der var i risiko for fattigdom eller social udstødelse (AROPE) i 2024.",
+  "textNote": "Dette kort præsenterer statistiske data om situationen for børn (under 18 år) i Den Europæiske Union (EU), der var i risiko for fattigdom eller social udstødelse (AROPE) i 2025. Tal for Litauen, Slovakiet, Østrig, Malta og Luxembourg mangler.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Klik for mere information"
 }

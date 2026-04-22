@@ -1,13 +1,13 @@
 {
-  "heading": "Quelle est l’ampleur de la pauvreté infantile dans tous les pays de l’UE ?",
-  "subheading": "En 2024, 24,2 % des enfants de moins de 18 ans dans l’UE étaient menacés de pauvreté ou d’exclusion sociale, contre 24,9 % en 2023.",
+  "heading": "Quelle est l'ampleur de la pauvreté infantile dans l'ensemble des pays de l'UE ?",
+  "subheading": "En 2025, 21,4 % des enfants de moins de 18 ans dans l’UE étaient exposés au risque de pauvreté ou d’exclusion sociale, contre 24,2 % en 2024.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "de la population âgée de moins de 18 ans",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Note",
-  "textNote": "Cette carte présente des données statistiques sur la situation des enfants (âgés de moins de 18 ans) dans l'Union européenne (UE) qui étaient menacés de pauvreté ou d'exclusion sociale (AROPE) en 2024",
+  "textNote": "Cette carte présente des données statistiques sur la situation des enfants (âgés de moins de 18 ans) dans l'Union européenne (UE) qui étaient exposés au risque de pauvreté ou d'exclusion sociale (AROPE) en 2025. Les chiffres pour la Lituanie, la Slovaquie, l'Autriche, Malte et le Luxembourg sont manquants.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

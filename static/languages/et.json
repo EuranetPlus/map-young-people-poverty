@@ -1,13 +1,13 @@
 {
   "heading": "Kui levinud on laste vaesus kõigis ELi riikides?",
-  "subheading": "2024. aastal oli ELis 24,2% alla 18-aastastest lastest vaesuse või sotsiaalse tõrjutuse ohus, võrreldes 2023. aastal teatatud 24,9%-ga.",
+  "subheading": "2025. aastal oli ELis 21,4% alla 18-aastastest lastest vaesuse või sotsiaalse tõrjutuse ohus, võrreldes 2024. aastal teatatud 24,2%-ga.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "alla 18-aastastest elanikest",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Märkus",
-  "textNote": "See kaart esitab statistilisi andmeid vaesuse või sotsiaalse tõrjutuse ohus (AROPE) olevate laste (alla 18-aastaste) olukorra kohta Euroopa Liidus (EL) 2024. aastal.",
+  "textNote": "See kaart esitab statistilisi andmeid vaesuse või sotsiaalse tõrjutuse ohus (AROPE) elavate laste (alla 18-aastaste) olukorra kohta Euroopa Liidus (EL) 2025. aastal. Leedu, Slovakkia, Austria, Malta ja Luksemburgi andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

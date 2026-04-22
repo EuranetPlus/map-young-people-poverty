@@ -1,13 +1,13 @@
 {
-  "heading": "Wie weit verbreitet ist Kinderarmut in allen EU-Ländern?",
-  "subheading": "Im Jahr 2024 waren 24,2 % der Kinder unter 18 Jahren in der EU von Armut oder sozialer Ausgrenzung bedroht, verglichen mit 24,9 % im Jahr 2023.",
+  "heading": "Wie weit verbreitet ist Kinderarmut in den EU-Ländern?",
+  "subheading": "Im Jahr 2025 waren 21,4 % der Kinder und Jugendlichen unter 18 Jahren in der EU von Armut oder sozialer Ausgrenzung bedroht, verglichen mit 24,2 % im Jahr 2024.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "der Bevölkerung unter 18 Jahren",
+  "tooltip1": "der Bevölkerung im Alter von unter 18 Jahren",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Notiz",
-  "textNote": "Diese Karte präsentiert statistische Daten zur Situation von Kindern (unter 18 Jahren) in der Europäischen Union (EU), die im Jahr 2024 von Armut oder sozialer Ausgrenzung bedroht waren (AROPE).",
-  "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textNote": "Diese Karte präsentiert statistische Daten zur Situation von Kindern (unter 18 Jahren) in der Europäischen Union (EU), die im Jahr 2025 von Armut oder sozialer Ausgrenzung bedroht waren (AROPE). Daten für Litauen, die Slowakei, Österreich, Malta und Luxemburg fehlen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

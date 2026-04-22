@@ -1,13 +1,13 @@
 {
   "heading": "Mennyire elterjedt a gyermekszegénység az EU összes országában?",
-  "subheading": "2024-ben az EU-ban a 18 év alatti gyermekek 24,2%-a volt kitéve a szegénység vagy a társadalmi kirekesztés kockázatának, szemben a 2023-ban jelentett 24,9%-kal.",
+  "subheading": "2025-ben az EU-ban a 18 év alatti gyermekek 21,4%-a volt kitéve a szegénység vagy a társadalmi kirekesztés kockázatának, szemben a 2024-ben jelentett 24,2%-kal.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "a 18 év alatti lakosság körében",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Ez a térkép statisztikai adatokat mutat be az Európai Unióban (EU) élő, szegénység vagy társadalmi kirekesztés kockázatának (AROPE) kitett (18 év alatti) gyermekek helyzetéről 2024-ben.",
+  "textNote": "Ez a térkép statisztikai adatokat mutat be az Európai Unióban (EU) élő, szegénység vagy társadalmi kirekesztés (AROPE) kockázatának kitett (18 év alatti) gyermekek helyzetéről 2025-ben. Litvánia, Szlovákia, Ausztria, Málta és Luxemburg adatai hiányoznak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Kattintson a további információkért"
 }

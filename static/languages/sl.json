@@ -1,13 +1,13 @@
 {
   "heading": "Kako razširjena je revščina otrok v vseh državah EU?",
-  "subheading": "Leta 2024 je bilo v EU 24,2 % otrok, mlajših od 18 let, ogroženih z revščino ali socialno izključenostjo v primerjavi s 24,9 %, o katerih so poročali leta 2023.",
+  "subheading": "Leta 2025 je bilo v EU 21,4 % otrok, mlajših od 18 let, ogroženih z revščino ali socialno izključenostjo v primerjavi s 24,2 %, o katerih so poročali leta 2024.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "prebivalstva, mlajšega od 18 let",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Opomba",
-  "textNote": "Ta zemljevid prikazuje statistične podatke o položaju otrok (mlajših od 18 let) v Evropski uniji (EU), ki so bili leta 2024 izpostavljeni tveganju revščine ali socialne izključenosti (AROPE).",
+  "textNote": "Ta zemljevid prikazuje statistične podatke o položaju otrok (mlajših od 18 let) v Evropski uniji (EU), ki so bili leta 2025 izpostavljeni tveganju revščine ali socialne izključenosti (AROPE). Podatki za Litvo, Slovaško, Avstrijo, Malto in Luksemburg manjkajo.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Kliknite za več informacij"
 }

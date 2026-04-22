@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka yleistä lasten köyhyys on kaikissa EU-maissa?",
-  "subheading": "Vuonna 2024 EU:ssa 24,2 prosenttia alle 18-vuotiaista lapsista oli köyhyys- tai sosiaalisen syrjäytymisen riskissä, kun vastaava luku vuonna 2023 oli 24,9 prosenttia.",
+  "subheading": "Vuonna 2025 EU:ssa 21,4 prosenttia alle 18-vuotiaista lapsista oli köyhyys- tai sosiaalisen syrjäytymisen riskissä, kun vastaava luku vuonna 2024 oli 24,2 prosenttia.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "alle 18-vuotiaasta väestöstä",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tämä kartta esittää tilastotietoja alle 18-vuotiaiden lasten tilanteesta Euroopan unionissa (EU), jotka olivat köyhyys- tai sosiaalisen syrjäytymisen riskissä (AROPE) vuonna 2024.",
+  "textNote": "Tämä kartta esittää tilastotietoja alle 18-vuotiaiden lasten tilanteesta Euroopan unionissa (EU), jotka olivat köyhyys- tai sosiaalisen syrjäytymisen riskissä (AROPE) vuonna 2025. Liettuan, Slovakian, Itävallan, Maltan ja Luxemburgin luvut puuttuvat.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

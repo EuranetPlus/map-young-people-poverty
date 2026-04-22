@@ -1,13 +1,13 @@
 {
   "heading": "Jak powszechne jest ubóstwo wśród dzieci we wszystkich krajach UE?",
-  "subheading": "W 2024 r. w UE 24,2% dzieci w wieku poniżej 18 lat było zagrożonych ubóstwem lub wykluczeniem społecznym, podczas gdy w 2023 r. odsetek ten wynosił 24,9%.",
+  "subheading": "W 2025 r. w UE 21,4% dzieci w wieku poniżej 18 lat było zagrożonych ubóstwem lub wykluczeniem społecznym, podczas gdy w 2024 r. odsetek ten wynosił 24,2%.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "populacji w wieku poniżej 18 lat",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Notatka",
-  "textNote": "Na mapie przedstawiono dane statystyczne dotyczące sytuacji dzieci (w wieku poniżej 18 lat) w Unii Europejskiej (UE), które w 2024 r. były zagrożone ubóstwem lub wykluczeniem społecznym (AROPE).",
+  "textNote": "Mapa przedstawia dane statystyczne dotyczące sytuacji dzieci (w wieku poniżej 18 lat) w Unii Europejskiej (UE), które w 2025 r. były zagrożone ubóstwem lub wykluczeniem społecznym (AROPE). Brakuje danych dla Litwy, Słowacji, Austrii, Malty i Luksemburga.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

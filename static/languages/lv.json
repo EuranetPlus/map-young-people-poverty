@@ -1,13 +1,13 @@
 {
   "heading": "Cik izplatīta ir bērnu nabadzība visās ES valstīs?",
-  "subheading": "2024. gadā 24,2 % bērnu vecumā līdz 18 gadiem ES bija pakļauti nabadzības vai sociālās atstumtības riskam, salīdzinot ar 24,9 %, par kuriem ziņots 2023. gadā.",
+  "subheading": "2025. gadā 21,4 % bērnu vecumā līdz 18 gadiem ES bija pakļauti nabadzības vai sociālās atstumtības riskam, salīdzinot ar 24,2 %, par kuriem ziņots 2024. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "iedzīvotāju, kas jaunāki par 18 gadiem",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat (2024)",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Šajā kartē ir sniegti statistikas dati par bērnu (līdz 18 gadu vecumam) stāvokli Eiropas Savienībā (ES), kuriem 2024. gadā draudēja nabadzība vai sociālā atstumtība (AROPE).",
+  "textNote": "Šajā kartē ir sniegti statistikas dati par bērnu (līdz 18 gadu vecumam) stāvokli Eiropas Savienībā (ES), kuriem 2025. gadā draudēja nabadzība vai sociālā atstumtība (AROPE). Trūkst datu par Lietuvu, Slovākiju, Austriju, Maltu un Luksemburgu.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n__custom_21126490/default/table",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }
